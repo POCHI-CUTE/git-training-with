@@ -1,2 +1,2 @@
 console.log("otk");
-console.log("ayk");
+console.error("ayk");
